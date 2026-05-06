@@ -20,7 +20,7 @@ from geopy.geocoders import Nominatim
 from streamlit_folium import st_folium
 
 
-APP_TITLE = "Учебный планировщик маршрутов"
+APP_TITLE = "Поиск точки интереса по адресу и добавление на карту"
 COUNTRY_CODES = "ru"
 DEFAULT_CENTER = [55.751244, 37.618423]  # Москва как удобная стартовая точка
 DEFAULT_ZOOM = 10
